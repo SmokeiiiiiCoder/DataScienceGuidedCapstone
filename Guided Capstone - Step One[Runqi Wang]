@@ -1,0 +1,14 @@
+Guided Capstone - Step One[Runqi Wang]
+Problem context 
+Big Mountain Resort, a ski resort located in Montana, offers spectacular views of Glacier National Park and Flathead National Forest, with access to 105 trails. Every year about 350000 people ski or snowboard at Big Mountain. Recently, Big Mountain Resort installed an additional chair lift to help increase the distribution of visitors across the mountain. In this case, their operating costs increased by $1540000 this season. Their ticket price is based on the average market price, which does not show the value of some important facilities more than others. So they need to change their price strategy to maximize their benefits, or some other changes to cus costs without undermining the ticket price
+Criteria for a successful solution
+Success this project = increase Big Mountain Resort profits
+Scope of the solution space
+We can build two plans. One is with changing ticket prices including normal tickets and premium tickets. Another one is with changing facility usage like opening time, maintenance plan, etc..
+Constraints within the solution space
+There won’t be a lot of data for testing, because every ski resort has its own unique situation, like location, chairlifts, etc..
+Stakeholders involved
+Big Mountain Resort Marketing manager
+Big Mountain Resort facility manager
+Data sources required
+Data from pdf
